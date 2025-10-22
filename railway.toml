@@ -1,0 +1,7 @@
+[build]
+builder = "Docker"
+
+[variables]
+POLL_INTERVAL_SEC = "20"
+WINDOW_MINUTES = "30"
+EQ_MIN_MAG = "6.5"
